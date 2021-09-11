@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 // If you have enabled NRTs for your project, then un-comment the following line:
 // #nullable disable
 
-//>> Scaffold - DbContext "Data Source=LAPTOP-B4GI3VF3;Initial Catalog=sampledb;User ID=sa;Password=dar123; Trusted_Connection=True;MultipleActiveResultSets=true;" Microsoft.EntityFrameworkCore.SqlServer - OutputDir Service / DBModel - UseDatabaseNames - Force - Context "SampledbContext" - Schema "dbo"
+//>>Scaffold-DbContext "Data Source=LAPTOP-B4GI3VF3;Initial Catalog=sampledb;User ID=sa;Password=dar123;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Service/DBModel
 
 namespace Sample.Application.Core.Service.DBModel
 {
